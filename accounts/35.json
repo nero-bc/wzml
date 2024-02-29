@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "genesismyway",
+  "private_key_id": "afd26fc30f97b6efcd9c29b0b2b80bd58e265bf8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDNmuL8pgkP9Dg/\niITeFz17H/g5kROpjU7fUi4Vt1uSDNma7juiuVCerkfO/LqXQsoy53avpoysodxR\npVzFGPAN6wUp39akMT9sf6NkS5udIDyNt7YqXLfI2XLFNtTVrlhUk0+1D9V1Hba5\nnDC984qEb+Q1X6zx+ViOr45wEv6Q57cr4IO/cKHft/6ih2PvfVtlFucAr5dQDdhr\nNWY6oT4C+8ni0O2wSnj4TnfAdIk9iTIP8cNx/AsURM2Payp7pf5kU5Iuy3gM7v+v\neG9vAOgDJ1UEPWN7qmAytHlf5P7/74uMKhWlYHKLaDO7NRktRk+TxJtMhCZ97RIt\n73KPamLLAgMBAAECggEAGP3ApXERHO1UgPR5If21LWgfZe/qceuJML/udhlJeiEx\nuhFHEmpwEDmi5Nf3XjdyGGnmFUerRbiO7SWqdxKm6yosAIECuAZ8bRW+qIxAKAMp\nGRjBfbizZih4ONyHVknQ1sbpI1r/WTL5aOpBSnV12s827/3nKapjR0SzjY/hfX9U\n0KIDPQuT1lvDhC15UR/gKjazq4iiXffZDRItWpnaIQ8SQ0v7D0zrfZy85H+oCo92\nApzDJMxjovtQFWrvMvCphMyRfWGWh9YeGmR3eOuci7QjcKJsGzZUBiQs1ZX/FMeK\nazC5kVDP7dA/QkohI+yaatGVl15IClG3B0ahvWzrQQKBgQD8Kij7plMXT53a51o1\nr78nRSuW4/GezrA227vFL+zYewU05usYpQjOKOGKvcg4qY3vO0dApEuAehkVv+6j\nW+yGaOn3ECGlyhKsQu31XCjGVQ0utjwCdCzZnZ9Xzkt8zEpsvlsL77b5emBP3mXd\nqRBvbrN9zzi15F5gn8ZqsV6z8QKBgQDQu3CUBNfXPiqpa9TitXP9rrTQIwfzy0Xh\nrO/gxpnDmQVza+sG4PcmMpd1W7zxtDLGVM1KYsELrtYSaYQ4hZoWsJiEHJJtwaaY\nb91kwS65g+q+WaSsXoCSM2GFQ5wO3um5vjfHYN+dfULbvzMAtGxuuKNSzjf77LwX\nZXx9Kf7OewKBgQC7n7cMv03V63R922RAy/qEArCTPhma2xk8SDSnXKhyzt4p5aOJ\nm8o4cyyWKe2fU3F7TnUOwPA4sSCXEU9Dl3Me81MadJNEo11PdSFPTfo80C3V0txF\nyyFP7jsQfzulqO+7h8uAzyUq7YZaBxVuX4wODaVZ9+SvWjNq25cr7buUUQKBgFb1\nb+5Koj1K6e0RPmyAmeUa7rszjPGVQvTE3l6vfonNa0bts8l22aAxPYYoBOxRXUHh\nPHF7+N7MJOUgznPZvRss0S1g1eQh5Cznlb2O+c9R1O8eW4twB3JhM4SYaSCM36SB\nSa2nfyGWeM8htbbac74g7/HkddBfjPDWV+mxIDWXAoGBAIkCietIhZR+tR+Z5X89\n6E1Q3a6DTljmJmedH3gmYLhLRZio97Dy0LMrPue8XiJGPkFOKjX33QvyQdDBgf/7\nDOgguaZ++/gHaZpqvvOixw7SgbCLZLGwLlXOTPzp2diGGGojuk3z7KEPVHuAB6Tc\nE1e79AoiJJ0MyeZBvol1ZcSv\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-g036yniylmuh3x4aj-wljmfs3a@genesismyway.iam.gserviceaccount.com",
+  "client_id": "102566520125614992015",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-g036yniylmuh3x4aj-wljmfs3a%40genesismyway.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
